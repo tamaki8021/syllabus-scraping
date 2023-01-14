@@ -6,6 +6,3 @@ def setup(url):
 
     soup = BeautifulSoup(url.content, "html.parser")
     return url, soup
-
-    # input_login = soup.select("h1")
-    # print(input_login)
