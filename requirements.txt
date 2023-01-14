@@ -1,0 +1,4 @@
+beautifulsoup4
+requests
+selenium
+chromedriver-binary==109.0.5414.25.0
